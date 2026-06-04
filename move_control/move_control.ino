@@ -2,8 +2,6 @@
 #include <BLEDevice.h>
 #include <BLEUtils.h>
 #include <BLEServer.h>
-#include <WiFi.h>
-#include <PubSubClient.h>
 
 
 // ==================== 电机引脚定义 ====================
